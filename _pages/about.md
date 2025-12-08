@@ -28,7 +28,7 @@ My research interests lie in LLM/VLM/dLLM model compression and acceleration, in
 - *2025.01*: &nbsp;🎉🎉 Our paper ARB-LLM is accepted by ICLR 2025.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/arbllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ARB-LLM: Alternating Refined Binarizations for Large Language Models**](https://arxiv.org/abs/2410.03129) 
@@ -46,6 +46,7 @@ Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 - **Memory Saving** - **33B** LLMs RL on a single H100 GPU.
 - **Training Speedup** - **1.7x** end-to-end training speedup. 
 - **High Performance** - Comparable accuracy to full training.
+  
 <!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

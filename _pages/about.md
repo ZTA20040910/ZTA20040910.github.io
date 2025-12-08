@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year undergraduate student at the [School of Ocean and Civil Engineering](https://en.naoce.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by Prof. [Yulun Zhang](https://yulunzhang.com/).
+I am a second-year undergraduate student at the [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by Prof. [Yulun Zhang](https://yulunzhang.com/).
 
-My research interests lie in LLM/VLM model compression and acceleration, including techniques such as binarization and post-training quantization. Additionally, I focus on AI-generated content (AIGC).
+My research interests lie in LLM/VLM/dLLM model compression and acceleration, including techniques such as binarization and post-training quantization. Additionally, I focus on AI-generated content (AIGC).
 
 
 # 🔥 News
@@ -28,19 +28,21 @@ My research interests lie in LLM/VLM model compression and acceleration, includi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/arbllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/arbllm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ARB-LLM: Alternating Refined Binarizations for Large Language Models](https://arxiv.org/abs/2410.03129)
 
 Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin, Dong Xie, Jiang Tian, Zhongchao Shi, Linghe Kong*, Yulun Zhang*, and Xiaokang Yang
 
+<!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- -->
 
 # 🎖 Honors and Awards
 - Zhiyuan Honors Scholarship 致远荣誉奖学金 (2023,2024,2025)

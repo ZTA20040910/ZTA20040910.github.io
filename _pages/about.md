@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year undergraduate student at the [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by Prof. [Yulun Zhang](https://yulunzhang.com/).
+Hi, there! I’m Tianao Zhang, a junor undergraduate student from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), majoring in Engineering Mechanics. 
+I  have the privilege of being advised by Prof. [Yulun Zhang](https://yulunzhang.com/) from [the School of Computer Science](https://www.cs.sjtu.edu.cn/en/).
 
-My research interests lie in LLM/VLM/dLLM model compression and acceleration, including techniques such as binarization and post-training quantization. Additionally, I focus on AI-generated content (AIGC).
+My research interests lie in LLM/VLM/dLLM model compression and acceleration, including techniques such as binarization and post-training quantization. Additionally, I focus on AI-generated content (AIGC). I’m open to any collaborations! Feel free to drop me an email for casual chat!
 
 
 # 🔥 News

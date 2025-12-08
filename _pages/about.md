@@ -29,7 +29,7 @@ My research interests lie in LLM/VLM/dLLM model compression and acceleration, in
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/arbllm.png' alt="sym" width="100%" style="aspect-ratio: 1710/770;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/arbllm.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ARB-LLM: Alternating Refined Binarizations for Large Language Models](https://arxiv.org/abs/2410.03129)

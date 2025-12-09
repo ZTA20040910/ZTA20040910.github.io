@@ -38,6 +38,15 @@ Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/quant-dllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models](https://arxiv.org/abs/2510.03274)
+
+**Tianao Zhang**<sup>1</sup>, Zhiteng Li<sup>1</sup>, Xianglong Yan, Haotong Qin, Yong Guo, and Yulun Zhang*
+</div>
+</div>
+
 <!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -50,7 +59,7 @@ Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 # 🎖 Honors and Awards
 - Tongsheng Scholarship (Top 1%) 同声奖学金 (2025)
 - Zhiyuan Honors Scholarship (Top 5%) 致远荣誉奖学金 (2023,2024,2025)
-- Excellent Undergraduate Scholarship (Top 5%) 本科生优秀奖学金 (2024, 2025)
+- Excellent Undergraduate Scholarship (Top 10%) 本科生优秀奖学金 (2024, 2025)
 
 
 # 📖 Educations

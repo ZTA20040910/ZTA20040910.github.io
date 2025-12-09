@@ -54,16 +54,16 @@ Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/pt2llm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/pt2llm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PT^2-LLM: Post-Training Ternarization for Large Language Models](https://arxiv.org/abs/2510.03267)
+[PT<sup>2</sup>-LLM: Post-Training Ternarization for Large Language Models](https://arxiv.org/abs/2510.03267)
 
 Xianglong Yan<sup>1</sup>, Chengzhu Bao<sup>1</sup>, Zhiteng Li, **Tianao Zhang**, Kaicheng Yang, Haotong Qin, Ruobing Xie, Xingwu Sun, and Yulun Zhang*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/recalkv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/recalkv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration](https://arxiv.org/abs/2505.24357)
@@ -72,7 +72,7 @@ Xianglong Yan<sup>1</sup>, Zhiteng Li<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/pbs2p.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/pbs2p.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Progressive Binarization with Semi-Structured Pruning for LLMs](https://arxiv.org/abs/2502.01705)

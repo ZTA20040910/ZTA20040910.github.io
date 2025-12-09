@@ -35,6 +35,8 @@ My research interests lie in LLM/VLM/dLLM model compression and acceleration, in
 [ARB-LLM: Alternating Refined Binarizations for Large Language Models](https://arxiv.org/abs/2410.03129)
 
 Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin, Dong Xie, Jiang Tian, Zhongchao Shi, Linghe Kong*, Yulun Zhang*, and Xiaokang Yang
+</div>
+</div>
 
 <!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -63,4 +65,4 @@ Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 - -->
 
 # 💻 Internships
-- *2025.7 - 2025.12*, [Huawei](https://www.huawei.com/cn/), China.
+- *2025.7 - 2025.12*, [Huawei](https://www.huawei.com/cn/), Shanghai.

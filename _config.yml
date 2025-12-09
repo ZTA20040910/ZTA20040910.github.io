@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianao Zhang's Homepage"
-description              : "Undergraduate"
+description              : "Welcome to my homepage!"
 repository               : "ZTA20040910/ZTA20040910.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianao Zhang"
   avatar           : "images/zta.png"
-  bio              : "Shanghai Jiao Tong University"
+  bio              : "Undergraduate at Shanghai Jiao Tong University<br>Research interests: Efficient AI"
   location         : "Shanghai/Beijing, China"
   employer         :
   pubmed           : 

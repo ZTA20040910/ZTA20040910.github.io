@@ -24,8 +24,9 @@ My research interests lie in LLM/VLM/dLLM model compression and acceleration, in
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 项目《面向端侧部署的大模型二值化压缩技术及应用》荣获第十九届“挑战杯”全国大学生课外学术科技作品竞赛特等奖。
-- *2025.01*: &nbsp;🎉🎉 Our paper ARB-LLM is accepted by ICLR 2025.
+- *2025.11*: &nbsp;🎉🎉 项目《面向端侧部署的大模型二值化压缩技术及应用》荣获第十九届“挑战杯”全国大学生课外学术科技作品竞赛**特等奖**。
+- *2025.06*: &nbsp;🎉🎉 项目《新型大语言模型二值化压缩技术》荣获第十九届“挑战杯”上海市大学生课外学术科技作品竞赛**特等奖**。
+- *2025.01*: &nbsp;🎉🎉 Our paper ARB-LLM is accepted by **ICLR 2025**.
 
 # 📝 Publications 
 

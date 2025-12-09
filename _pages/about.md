@@ -21,7 +21,7 @@ Hi, this is Tianao Zhang (张天骜)'s website!
 
 I am a junior undergraduate student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), majoring in Engineering Mechanics.
 
-I have the privilege of being advised by Prof. [Yulun Zhang](https://yulunzhang.com/) from [the School of Computer Science](https://www.cs.sjtu.edu.cn/en/).
+I have the privilege of being advised by Prof. [Yulun Zhang](https://yulunzhang.com/) and Prof. [Xiaokang Yan](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=en) from [the School of Computer Science](https://www.cs.sjtu.edu.cn/en/).
 
 My research interests focus on **Efficient AI** - Making large models practical and accessible.
 

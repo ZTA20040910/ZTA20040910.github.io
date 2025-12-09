@@ -48,10 +48,9 @@ Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 - -->
 
 # 🎖 Honors and Awards
-- Zhiyuan Honors Scholarship 致远荣誉奖学金 (2023,2024,2025)
-- Excellent Undergraduate Scholarship 本科生优秀奖学金 (2024, 2025)
-- Tongsheng Scholarship 同声奖学金 (2025)
-
+- Tongsheng Scholarship (Top 1%) 同声奖学金 (2025)
+- Zhiyuan Honors Scholarship (Top 5%) 致远荣誉奖学金 (2023,2024,2025)
+- Excellent Undergraduate Scholarship (Top 5%) 本科生优秀奖学金 (2024, 2025)
 
 
 # 📖 Educations
@@ -65,4 +64,4 @@ Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 - -->
 
 # 💻 Internships
-- *2025.7 - 2025.12*, [Huawei](https://www.huawei.com/cn/), Shanghai.
+- *2025.7 - 2025.12*, AI Algorithm Engineer, [Huawei](https://www.huawei.com/cn/), Shanghai, China.

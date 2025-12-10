@@ -25,7 +25,7 @@ I have the privilege of being advised by Prof. [Yulun Zhang](https://yulunzhang.
 
 My research interests focus on **Efficient AI** - Making large models practical and accessible.
 
-If you are interested in efficient AI and seeking collaboration, please feel free to contact me via [Email](ztaztazta2785@gmail.com)!
+I'm open to collaboration and discussion! Feel free to reach out via Email (ztaztazta2785@gmail.com) or WeChat (ZTAZTAZTAZTAZTA)!
 
 
 # 🔥 News

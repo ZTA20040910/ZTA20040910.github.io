@@ -21,17 +21,17 @@ Hi, this is Tianao Zhang (张天骜)'s website!
 
 I am a junior undergraduate student at [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), majoring in Engineering Mechanics.
 
-I have the privilege of being advised by Prof. [Yulun Zhang](https://yulunzhang.com/) and Prof. [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=en) from [the School of Computer Science](https://www.cs.sjtu.edu.cn/en/).
+I have the privilege of being advised by Prof. [Yulun Zhang](https://yulunzhang.com/) and Prof. [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=en) from [the School of Computer Science](https://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
 
-My research interests focus on **Efficient AI** - Making large models practical and accessible.
+My research interests lie in LLM/dLLM model compression and acceleration, including techniques such as binarization and post-training quantization. I am passionate about exploring methods to build powerful yet resource-conscious AI systems that push the boundaries of computational efficiency. ⚡
 
 I'm open to collaboration and discussion! Feel free to reach out via Email (ztaztazta2785@gmail.com) or WeChat (ZTAZTAZTAZTAZTA)!
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 项目《面向端侧部署的大模型二值化压缩技术及应用》荣获第十九届“挑战杯”全国大学生课外学术科技作品竞赛**特等奖**。
-- *2025.06*: &nbsp;🎉🎉 项目《新型大语言模型二值化压缩技术》荣获第十九届“挑战杯”上海市大学生课外学术科技作品竞赛**特等奖**。
-- *2025.01*: &nbsp;🎉🎉 Our paper ARB-LLM is accepted by **ICLR 2025**!
+- *2025.11*: &nbsp;🎉🎉 Our team won the National Challenge Cup **Grand Prize** (挑战杯全国**特等奖**) with the project "Binarization Compression Technology and Application of Large Models for Edge Deployment"!
+- *2025.06*: &nbsp;🎉🎉 Our team won the Shanghai Challenge Cup **Grand Prize** (挑战杯上海市**特等奖**) with the project "Novel Binarization Compression Technology for Large Language Models".
+- *2025.01*: &nbsp;🎉🎉 Our paper **ARB-LLM** is accepted by **ICLR 2025**!
 
 # 📝 Publications 
 

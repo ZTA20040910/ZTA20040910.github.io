@@ -40,7 +40,7 @@ I'm open to collaboration and discussion! Feel free to reach out via Email (ztaz
 
 [ARB-LLM: Alternating Refined Binarizations for Large Language Models](https://arxiv.org/abs/2410.03129)
 
-Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin, Dong Xie, Jiang Tian, Zhongchao Shi, Linghe Kong*, Yulun Zhang*, and Xiaokang Yang
+Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin, Dong Xie, Jiang Tian, Zhongchao Shi, Linghe Kong\*, Yulun Zhang\*, and Xiaokang Yang
 </div>
 </div>
 
@@ -49,7 +49,7 @@ Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 
 [Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models](https://arxiv.org/abs/2510.03274)
 
-**Tianao Zhang**<sup>1</sup>, Zhiteng Li<sup>1</sup>, Xianglong Yan, Haotong Qin, Yong Guo, and Yulun Zhang*
+**Tianao Zhang**<sup>1</sup>, Zhiteng Li<sup>1</sup>, Xianglong Yan, Haotong Qin, Yong Guo, and Yulun Zhang\*
 </div>
 </div>
 
@@ -59,7 +59,7 @@ Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 
 [PT<sup>2</sup>-LLM: Post-Training Ternarization for Large Language Models](https://arxiv.org/abs/2510.03267)
 
-Xianglong Yan<sup>1</sup>, Chengzhu Bao<sup>1</sup>, Zhiteng Li, **Tianao Zhang**, Kaicheng Yang, Haotong Qin, Ruobing Xie, Xingwu Sun, and Yulun Zhang*
+Xianglong Yan<sup>1</sup>, Chengzhu Bao<sup>1</sup>, Zhiteng Li, **Tianao Zhang**, Kaicheng Yang, Haotong Qin, Ruobing Xie, Xingwu Sun, and Yulun Zhang\*
 </div>
 </div>
 
@@ -68,7 +68,7 @@ Xianglong Yan<sup>1</sup>, Chengzhu Bao<sup>1</sup>, Zhiteng Li, **Tianao Zhang*
 
 [ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration](https://arxiv.org/abs/2505.24357)
 
-Xianglong Yan<sup>1</sup>, Zhiteng Li<sup>1</sup>, **Tianao Zhang**, Haotong Qin, Linghe Kong, Yulun Zhang*, and Xiaokang Yang
+Xianglong Yan<sup>1</sup>, Zhiteng Li<sup>1</sup>, **Tianao Zhang**, Haotong Qin, Linghe Kong, Yulun Zhang\*, and Xiaokang Yang
 </div>
 </div>
 
@@ -77,7 +77,7 @@ Xianglong Yan<sup>1</sup>, Zhiteng Li<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 
 [Progressive Binarization with Semi-Structured Pruning for LLMs](https://arxiv.org/abs/2502.01705)
 
-Xianglong Yan<sup>1</sup>, **Tianao Zhang**<sup>1</sup>, Zhiteng Li, Haotong Qin, and Yulun Zhang*
+Xianglong Yan<sup>1</sup>, **Tianao Zhang**<sup>1</sup>, Zhiteng Li, Haotong Qin, and Yulun Zhang\*
 </div>
 </div>
 

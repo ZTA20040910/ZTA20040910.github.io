@@ -97,7 +97,7 @@ Xianglong Yan<sup>1</sup>, **Tianao Zhang**<sup>1</sup>, Zhiteng Li, Haotong Qin
 # 🎖 Honors and Awards
 
 - Tongsheng Scholarship (Top 1%) 同声奖学金 (2025)
-- Han Ying Ju Hua Scholarship (Top 1%) 含英咀华奖学金 (2025)
+- Han Ying Ju Hua Special Achievements Scholarship (Top 1%) 含英咀华专项成就奖学金 (2025)
 - Zhiyuan Honors Scholarship (Top 5%) 致远荣誉奖学金 (2023,2024,2025)
 - Excellent Undergraduate Scholarship (Top 10%) 本科生优秀奖学金 (2024, 2025)
 

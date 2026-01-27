@@ -35,17 +35,7 @@ I am always open to collaborations and academic discussions! Feel free to reach 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/arb-llm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ARB-LLM: Alternating Refined Binarizations for Large Language Models](https://arxiv.org/abs/2410.03129)
-
-Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin, Dong Xie, Jiang Tian, Zhongchao Shi, Linghe Kong\*, Yulun Zhang\*, and Xiaokang Yang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/quant-dllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/quant-dllm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models](https://arxiv.org/abs/2510.03274)
@@ -55,12 +45,22 @@ Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/pt2llm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/pt2llm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PT<sup>2</sup>-LLM: Post-Training Ternarization for Large Language Models](https://arxiv.org/abs/2510.03267)
 
 Xianglong Yan<sup>1</sup>, Chengzhu Bao<sup>1</sup>, Zhiteng Li, **Tianao Zhang**, Kaicheng Yang, Haotong Qin, Ruobing Xie, Xingwu Sun, and Yulun Zhang\*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/arb-llm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ARB-LLM: Alternating Refined Binarizations for Large Language Models](https://arxiv.org/abs/2410.03129)
+
+Zhiteng Li<sup>1</sup>, Xianglong Yan<sup>1</sup>, **Tianao Zhang**, Haotong Qin, Dong Xie, Jiang Tian, Zhongchao Shi, Linghe Kong\*, Yulun Zhang\*, and Xiaokang Yang
 
 </div>
 </div>

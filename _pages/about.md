@@ -29,6 +29,7 @@ I am always open to collaborations and academic discussions! Feel free to reach 
 
 # 🔥 News
 
+- _2026.01_: &nbsp;🎉🎉 Our paper **Quant-dLLM** and **PT<sup>2</sup>-LLM** have been accepted to **ICLR 2026**!
 - _2025.11_: &nbsp;🎉🎉 Our team was awarded the **Grand Prize** at the National "Challenge Cup" Competition (挑战杯全国**特等奖**) for the project "Binarization Compression Technology and Application of Large Models for Edge Deployment"!
 - _2025.06_: &nbsp;🎉🎉 Our team was awarded the **Grand Prize** at the Shanghai "Challenge Cup" Competition (挑战杯上海市**特等奖**) for the project "Novel Binarization Compression Technology for Large Language Models"!
 - _2025.01_: &nbsp;🎉🎉 Our paper **ARB-LLM** has been accepted to **ICLR 2025**!

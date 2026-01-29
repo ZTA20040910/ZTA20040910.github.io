@@ -25,7 +25,7 @@ I am fortunate to be advised by Prof. [Yulun Zhang](https://yulunzhang.com/) and
 
 My research focuses on model compression and acceleration for Large Language Models (LLMs) and Diffusion Models (dLLMs), with an emphasis on techniques such as binarization and post-training quantization. I am dedicated to building powerful yet resource-efficient AI systems that push the boundaries of computational efficiency. ⚡
 
-I am always open to collaborations and academic discussions! Feel free to reach out via email at [ztaztazta2785@gmail.com](mailto:ztaztazta2785@gmail.com) or via WeChat (ZTAZTAZTAZTAZTA).
+I am always open to collaborations and academic discussions! Feel free to reach out via email at [ztaztazta2785@gmail.com](mailto:ztaztazta2785@gmail.com) or via WeChat (ID:ZTAZTAZTAZTAZTA).
 
 # 🔥 News
 
@@ -115,6 +115,7 @@ Xianglong Yan<sup>1</sup>, **Tianao Zhang**<sup>1</sup>, Zhiteng Li, Haotong Qin
 
 # 🤝 Academic Service
 
+- Reviewer of ICML 2026.
 - Reviewer of ICLR 2026.
 
 # 💻 Internships

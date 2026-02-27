@@ -115,7 +115,6 @@ Xianglong Yan<sup>1</sup>, **Tianao Zhang**<sup>1</sup>, Zhiteng Li, Haotong Qin
 
 # 🤝 Academic Service
 
-- Reviewer of ICML 2026.
 - Reviewer of ICLR 2026.
 
 # 💻 Internships

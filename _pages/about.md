@@ -23,13 +23,13 @@ I am currently a junior undergraduate student at [Shanghai Jiao Tong University 
 
 I am fortunate to be advised by Prof. [Yulun Zhang](https://yulunzhang.com/) and Prof. [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=en) from the [School of Computer Science](https://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
 
-My research focuses on model compression and acceleration for Large Language Models (LLMs) and Diffusion Models (dLLMs), with an emphasis on techniques such as binarization and post-training quantization. I am dedicated to building powerful yet resource-efficient AI systems that push the boundaries of computational efficiency. ⚡
+My research focuses on model compression and acceleration for Large Language Models (LLMs) and Diffusion Diffusion Large Language Models (dLLMs), with an emphasis on techniques such as binarization and post-training quantization. I am dedicated to building powerful yet resource-efficient AI systems that push the boundaries of computational efficiency. ⚡
 
 I am always open to collaborations and academic discussions! Feel free to reach out via email at [ztaztazta2785@gmail.com](mailto:ztaztazta2785@gmail.com) or via WeChat (ID:ZTAZTAZTAZTAZTA).
 
 # 🔥 News
 
-- _2026.01_: &nbsp;🎉🎉 Our paper **Quant-dLLM** and **PT<sup>2</sup>-LLM** have been accepted to **ICLR 2026**!
+- _2026.01_: &nbsp;🎉🎉 Our papers **Quant-dLLM** and **PT<sup>2</sup>-LLM** have been accepted to **ICLR 2026**!
 - _2025.11_: &nbsp;🎉🎉 Our team was awarded the **Grand Prize** at the National "Challenge Cup" Competition (挑战杯全国**特等奖**) for the project "Binarization Compression Technology and Application of Large Models for Edge Deployment"!
 - _2025.06_: &nbsp;🎉🎉 Our team was awarded the **Grand Prize** at the Shanghai "Challenge Cup" Competition (挑战杯上海市**特等奖**) for the project "Novel Binarization Compression Technology for Large Language Models"!
 - _2025.01_: &nbsp;🎉🎉 Our paper **ARB-LLM** has been accepted to **ICLR 2025**!
@@ -104,7 +104,7 @@ Xianglong Yan<sup>1</sup>, **Tianao Zhang**<sup>1</sup>, Zhiteng Li, Haotong Qin
 
 # 📖 Educations
 
-- _2023.09 - now_, B.Eng. in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China.
+- _2023.09 - now_, B.Eng. at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China.
 - _2020.09 - 2023.06_, High School, [The Experimental High School Attached to Beijing Normal University](http://www.sdsz.com.cn/), Beijing, China.
 
 <!--

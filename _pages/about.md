@@ -21,7 +21,7 @@ Welcome to Tianao Zhang's (张天骜) personal website!
 
 I am currently a junior undergraduate student at [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), majoring in Engineering Mechanics.
 
-I am fortunate to be advised by Prof. [Yulun Zhang](https://yulunzhang.com/) and Prof. [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=en) from the [School of Computer Science](https://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
+I am fortunate to be advised by Prof. [Yulun Zhang](https://yulunzhang.com/) from the [School of Computer Science](https://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
 
 My research focuses on model compression and acceleration for Large Language Models (LLMs) and Diffusion Diffusion Large Language Models (dLLMs), with an emphasis on techniques such as binarization and post-training quantization. I am dedicated to building powerful yet resource-efficient AI systems that push the boundaries of computational efficiency. ⚡
 
